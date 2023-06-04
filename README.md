@@ -7,4 +7,4 @@ Projek Laundry Sederhana berbasis Prosedural Programming.
 3. ![alt text](https://github.com/khfii/Laundry-Projek/blob/main/login.png)
 
 3. Halaman Dashboard
-4. ![alt text]()
+4. ![alt text](https://github.com/khfii/Laundry-Projek/blob/main/dashboard.png)
