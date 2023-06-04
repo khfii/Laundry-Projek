@@ -1,2 +1,2 @@
 Projek Laundry Sederhana berbasis Prosedural Programming.
-![alt text](?raw=true)
+![alt text](https://github.com/khfii/Laundry-Projek/blob/main/rekaluna.png)
